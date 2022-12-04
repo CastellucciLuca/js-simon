@@ -7,16 +7,9 @@
 h1 {
   color: red;
 }
-
-custom-w-100px {
-  width: 200px;
-}
-
-custom-h-100px {
-  height: 200px;
-}
-
-.coloredCells {
-  background-color: rgb(0, 81, 255);
+.time-square{
+  border: 2px solid lightslategray;
+  border-radius: 15px;
+  margin: 0 2px;
 }
 
