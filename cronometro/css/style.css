@@ -8,8 +8,8 @@ h1 {
   color: red;
 }
 .time-square{
-  border: 2px solid lightslategray;
-  border-radius: 15px;
+  border: 2px solid black;
+  border-radius: 20px;
   margin: 0 2px;
 }
 
